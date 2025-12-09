@@ -8,3 +8,4 @@ Text can be *emphasized*, or italicized, by placing only one asterisk on either 
 
 ## Additional Requirements
 This [📎](https://www.youtube.com/watch?v=EsNOqa-6iB4) is a link to a grandfather clock swinging, in the spirit of pendulums. I wasn't sure what link to put here, as I was sick the day we did this assignment in class, but I sincerely hope this will suffice.
+This [📎](https://github.com/GavinDunaway410/Getting-Started-with-Github/blob/main/Screenshot%202025-12-08%20205249.png) is the link to the screenshot of commit history.
