@@ -7,4 +7,4 @@ Text can be *emphasized*, or italicized, by placing only one asterisk on either 
 * 3. If the pivot point moves down just as the pendulum bob begins to fall, then the pendulum will fall at a rate consistent with both the gravitational force acting on the pendulum as well as the movement already being experienced by the bob, but ultimatley it depends on the speed of the movement downwards. If the movement is slow, then the bob will only slightly fall slower, but if the movement is fast, then the bob may display very little downward swing.
 
 ## Additional Requirements
-[This](https://www.youtube.com/watch?v=EsNOqa-6iB4) is a link to a grandfather clock swinging, in the spirit of pendulums. I wasn't sure what link to put here, as I was sick the day we did this assignment in class, but I sincerely hope this will suffice.
+This [📎](https://www.youtube.com/watch?v=EsNOqa-6iB4) is a link to a grandfather clock swinging, in the spirit of pendulums. I wasn't sure what link to put here, as I was sick the day we did this assignment in class, but I sincerely hope this will suffice.
